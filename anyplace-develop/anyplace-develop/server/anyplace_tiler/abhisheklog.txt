@@ -1,0 +1,5 @@
+abhishek in get_abs_path2
+arguement passed
+/floor_plans/building_ad5290a0-4ab8-46db-9b2e-29f51e2b343f_151331883815/fl_2/fl_2
+output
+

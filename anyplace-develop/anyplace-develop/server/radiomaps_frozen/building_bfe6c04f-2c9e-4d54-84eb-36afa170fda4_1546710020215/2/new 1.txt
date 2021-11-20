@@ -1,0 +1,6 @@
+Collections.sort(LocDistance_Results_List, new Comparator<LocDistance>() {
+
+			public int compare(LocDistance gd1, LocDistance gd2) {
+				return (gd1.getDistance() > gd2.getDistance() ? 1 : (gd1.getDistance() == gd2.getDistance() ? 0 : -1));
+			}
+		});
